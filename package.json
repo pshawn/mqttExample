@@ -1,0 +1,8 @@
+{
+      "name": "Mqtt-example",
+      "main": "mqtt.js",
+      "dependencies": {
+        "mqtt" : "~2.1.3"
+                
+      }
+    }
